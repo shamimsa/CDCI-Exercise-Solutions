@@ -1,2 +1,2 @@
 # CDCI-Exercise-Solutions
-my Python solutions to the exercises from the book CDCI
+My Python solutions to the exercises from the book Cracking the Coding Interview 6th Edition
